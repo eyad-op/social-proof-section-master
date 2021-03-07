@@ -1,5 +1,7 @@
 # Frontend Mentor - Social proof section
 
+link for demo: https://social-proof-section-master-teal-one.vercel.app/
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
